@@ -22,6 +22,8 @@ Realizei algumas alterações no site da Prodan, como por exemplo: Troquei os te
 implementei uma biblioteca do framework Foundation chamada Modal.
 
 dia 14:
-
+Neste dia continuei com as alterações no site da prodan, implementei uma ferramenta do framework Php CodeIgniter chamada word_limiter(),
+removi alguns campos, e adicionei um botão para acesso a uma página de ajuda da empresa. Depois, resolvi alguns problemas da versão mobile
+do site que apresentavam erro.
 
 
