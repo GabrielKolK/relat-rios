@@ -1,2 +1,16 @@
 30 de Maio:
 Neste dia terminei de assistir as vídeo aulas e de criar a página para testar o design responsivo.
+
+1 de Junho:
+Comecei a implementar o design responsivo no meu projeto, criando um botão para acessar o menu em dispositivos com telas menores e o menu
+horizontal normal para dispositivos com telas maiores ou igual que a resolução 1024 x 768.
+
+2 de Junho:
+Implementei o design responsivo no resto do documento. Fazendo com que o conteúdo se modele ao tamanho da tela da melhor maneira possível,
+e depois criei um repositório no GitHub, e exportei o projeto para ele através do Git.
+
+5 de Junho:
+Neste dia baixei e instalei o Mongo DB na máquina e comecei a estudá-lo através de uma série de vídeo aulas. Fiz alguns exercícios
+com os comandos básicos do Mongo DB, como por exemplo o insert, o mongoimport e o mongoexport.
+
+6 de Junho:
