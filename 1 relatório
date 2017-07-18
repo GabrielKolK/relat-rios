@@ -1,0 +1,67 @@
+4 de Maio:
+No primeiro dia, minha tarefa foi a de instalar os programas que eu iria utilizar. Instalei os programas: Atom (software web editor), 
+Xampp server, Google Chrome, Slack(software de comunicação via mensagens de texto) e o Git(sistema de controle de versão distribuído de
+arquivos). Tambem criei contas de usuario no bitbucket(serviço de hospedagem de projetos controlados)e no slack e no GitHub que também 
+é um serviço de hospedagem de projetos.
+
+5 de Maio:
+Neste dia instalei o http-server através da ferramenta NPM(gerenciador de pacotes)e o executei para poder realizar a atividade. Depois
+comecei a fazer uma pagina básica em html(com cabeçalho, conteúdo e rodapé), com base na template do site zurb.com, e ainda pesquisei 
+sobre as novas tags implementadas no html5 (header, section, main, article e footer).
+
+8 de Maio:
+Neste dia recebi a tarefa de criar uma outra página(about) para integrar com a primeira(index). Criei uma conta no GitHub(serviço de 
+hospedagem de projetos controlados), pesquisei alguns comandos do Git para implementar no projeto das páginas e os usei para criar um
+repositório e exportar o projeto para o GitHub.
+
+9 de Maio:
+Neste dia baixei o Google Remote Desktop, uma extensão do chrome para acesso remoto do computador. Depois fui orientado a refazer a 
+página index utilizando uma outra template como base. Utilizando o framework Foundation comecei criando todo a parte das sections e 
+divisões do site depois atribui um ID para cada uma delas. Após criado todo o esqueleto da página, trabalhei nelas, organizando os 
+conteúdos. 
+
+11 de maio:
+Continuei no desenvolvimento da página implementando alguns componentes do Foundation como por exemplo o Card onde coloquei um conteúdo
+relacionado a custos, e a block grid onde usei um conjunto de imagens.
+
+12 de Maio:
+Neste dia comecei a aplicar o estilo na página com CSS, e resolvi alguns erros. Depois fui pesquisar sobre CSS e encontrei uma apostila 
+sobre desenvolvimento web (HTML, CSS E JAVASCRIPT) então comecei a estudá-la.
+
+15 de Maio:
+Neste dia terminei o desenvolvimento da página, com o HTML e o CSS prontos, então usei o Git para exportar o conteúdo e atualizar o
+repositório no GitHub.
+
+16 de Maio:
+Neste dia a internet não estava funcionando no computador que eu uso, então acessei as configurações de rede e alterei o ip que estava 
+em fixo para dinâmico e o erro foi resolvido. Depois continuei a estudar a apostila sobre desenvolvimento web base e comecei a aplicar 
+os conceitos aprendidos em um novo documento html.
+
+18 de Maio:
+Neste dia minha tarefa era continuar estudando html e css na apostila. Pesquisei sobre como deixar o HTML semânticamente correto, CSS 
+Reset, position (static, relative, absolute), formulários, cascata e herança no CSS, painéis flutuantes e seletores de atributo do CSS3.
+
+19 de Maio:
+Neste dia comecei a estudar JavaScript pesquisando sobre a história do JavaScript, o que são variáveis, constantes, funções e como 
+declará-las, o que é um objeto e como posso utilizar esses conceitos para crar um objeto.
+
+22 de Maio:
+Comecei a desenvolver uma nova página baseada no site de um evento. Utilizando o framework Foundation criei o
+header, o main(onde fica o conteúdo) e o footer, e depois dividi o documento em sections para ficar semânticamente correto.
+
+23 de Maio:
+Neste dia comecei a implementar o conteúdo na página, criei um menu horizontal superior, depois coloquei uma imagem abaixo dele e abaixo
+da imagem um texto, também coloquei um vídeo informativo e comecei a formatação no CSS.
+
+25 de Maio:
+Terminei a formatação no CSS das partes citadas acima, e depois assisti uma vídeo aula sobre criação de grids em CSS. Após isso,
+comecei a criar a grid para poder implementar no meu documento.
+
+26 de Maio:
+Neste dia recebi a tarefa de acompanhar uma série de 16 vídeo aulas sobre design responsivo.
+
+29 de Maio:
+Continuei assistindo as vídeo aulas sobre design responsivo para poder aplicar no meu projeto.
+
+
+
