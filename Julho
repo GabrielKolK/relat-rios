@@ -1,3 +1,20 @@
+26 de Junho:
+Neste dia recebi a tarefa de definir o domínio do site da JCSx Sistemas no site de hospedagem. Após isso, clonei o projeto do site da
+Prodan Software e alterei as configurações do clone para poder transformar no site da JCSx.
+
+27 de Junho:
+Neste dia dei continuidade aos estudos e as vídeo aulas sobre o framework PHP Laravel, e instalei o Composer(uma ferramenta para 
+gerenciamento de dependências para o PHP).
+
+29 de Junho:
+Neste dia pesquisei sobre reCaptcha e depois o apliquei no site da Prodan. Após toda a edição, atualizei o projeto que estava no
+servidor.
+
+30 de Junho:
+Commitei o projeto do site da Prodan e depois o enviei para o repositório no BitBucket usando o Git. Também instalei o software Discord
+na máquina. Depois, fiz algumas alterações no projeto da JCSx. Alterei as cores, algumas imagens, a logo, e também as informações como
+os Valores, Missão, Visão e Negócios.
+
 Dia 3:
 Alterei textos do site da JCSx, e inseri icones.
 Arrumei os links do site da Prodan.
@@ -17,6 +34,9 @@ Depois minha tarefa foi estudar sobre NodeJS, assistindo video aulas e pesquisan
 dia 10:
 Continuei olhando vídeo aulas sobre NodeJS, buscando entender como funciona uma API.
 
+dia 11:
+Neste dia permaneci com os estudos sobre NodeJS e com as vídeo aulas.
+
 dia 13:
 Realizei algumas alterações no site da Prodan, como por exemplo: Troquei os textos, títulos e alterei a ordem dos conteúdos. Também
 implementei uma biblioteca do framework Foundation chamada Modal.
@@ -27,6 +47,12 @@ removi alguns campos, e adicionei um botão para acesso a uma página de ajuda d
 do site que apresentavam erro.
 
 dia 17:
-Neste dia eu pesquisei sobre API RESTful e acompanhei uma série de vídeo aulas sobre o mesmo, e também li a documentação do swagger que é
+Neste dia eu pesquisei sobre API's, o que são, como funcionam e onde são aplicadas. Também li a documentação do swagger que é
 um editor para modelar API's.
+
+dia 18:
+Neste dia acompanhei uma série de vídeo aulas sobre como documentar uma API, e como atingir o RESTful.
+
+dia 20:
+
 
