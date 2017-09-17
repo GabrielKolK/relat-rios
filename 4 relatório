@@ -19,42 +19,40 @@ comerciais da empresa, alterando o número das portas de entrada/saída, senhas,
 Realizei mais algumas alterações no site da PRODAN, como a troca de ordem dos conteúdos, configurações de link's e do menu.
 
 01 de Agosto:
-Acompanhei o supervisor no desenvolvimento de uma pequena API. Depois, resolvi consertei um problema de link no site da PRODAN.
+Acompanhei o supervisor no desenvolvimento de uma pequena API. Depois, resolvi um problema com links no site da PRODAN.
 
 03 de Agosto:
 Neste dia, instalei a extensão do chrome POSTMAN (cliente REST, para testes em API's), depois assisti algumas vídeo aulas e comecei a
 testar uma API.
 
 04 de Agosto:
-Neste dia, continuei com os testes na API, utilizando os principais verbos HTTP (GET, POST, PUT, DELETE).
+Neste dia, continuei com os testes na API. Utilizei os principais verbos HTTP (GET, POST, PUT, DELETE).
 
 07 de Agosto:
-Nesta tarde, realizei algumas alterações no site da PRODAN, alterando algumas imagens e editando textos. Também vinculei um link de 
+Nesta tarde, realizei algumas alterações no site da PRODAN, alterei algumas imagens e editei textos. Também vinculei um link de 
 acesso ao site da JCSx Sistemas.
 
 08 de Agosto:
-
-
-10 de Agosto:
-
+Neste dia, conversei com o chefe para saber suas idéias de como ele queria o site da JCSX e também apresentei as sugestões do meu 
+supervisor que seria o responsável pela construção do site. Mais tarde, editei a logo do site.
 
 11 de Agosto:
 Dei início a otimização do site da PRODAN através das técnicas de SEO(Search Engine Optimization). Construi uma Meta Description para o
 site e também introduzi as KeyWords.
 
 14 de Agosto:
-Nesta tarde, dei continuidade a tarefa de otimização do site da PRODAN, implementando as meta tags e corrigindo alguns textos.
+Nesta tarde, dei continuidade a tarefa de otimização do site da PRODAN, implementei as meta tags e corrigi alguns textos.
 
 15 de Agosto:
 Nesta tarde, troquei a RAM do computador, pois a antiga estava com problemas. Depois, recebi os textos para o site da JCSx Sistemas e 
 então realizei as alterações na página. Também consertei uns links no menu que estavam com problemas.
 
 17 de Agosto:
-Pesquisei como era feito um mapeamento de site e como deixá-lo mais facilmente rastrável pelos mecanismos de busca do Google. Depois 
+Pesquisei como era feito um mapeamento de site e como deixá-lo mais facilmente rastreável pelos mecanismos de busca do Google. Depois 
 criei os arquivos sitemap.xml(mapa do site) e robots (Restrições para as buscas do Google).
 
 18 de Agosto:
-Nesta tarde tratei de otimizar a velocidade do site, compactando imagens, html, css e javascript. Também implementei ao arquivo 
+Nesta tarde tratei de otimizar a velocidade do site, compactei imagens, o html, css e o javascript. Também implementei ao arquivo 
 .htaccess as regras do armazenamento em cache do site.
 
 
